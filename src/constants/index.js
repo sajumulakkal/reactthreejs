@@ -170,7 +170,7 @@ export const socialLinks = [
     {
         name: 'Contact',
         iconUrl: contact,
-        link: '/contact',
+        link: 'https://sajumulakkal.netlify.app/',
     },
     {
         name: 'GitHub',
